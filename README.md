@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -->
 - 🔭 I’m currently working on... stuff
-- - 👯 I’m looking to collaborate on: Nothing
+- 👯 I’m looking to collaborate on: Nothing
 - 📫 How to reach me: Don't
 - ⚡ Fun fact: I like Python
